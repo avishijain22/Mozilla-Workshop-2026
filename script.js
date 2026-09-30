@@ -2,7 +2,7 @@
    CONTRIBUTORS: add your name on a NEW line, keep the comma!
    ========================================================== */
 const CONTRIBUTORS = [
-  "Mozilla", "CCOEW" , "Pune"
+  "Mozilla", "CCOEW" , "Pune", "Avishi Jain"
   // add your name below this line
 ];
 
